@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\eliza\eclipse-workspace\TestProject\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="3" lineNum="9" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="3" lineNum="10" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="4" lineNum="14" pc="268435479" symbol="onLayout"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="4" lineNum="15" pc="268435483" symbol="onLayout"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="5" lineNum="21" pc="268435521" symbol="onShow"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="25" pc="268435526" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="27" pc="268435530" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="28" pc="268435537" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="29" pc="268435554" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="30" pc="268435564" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="31" pc="268435589" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="32" pc="268435600" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="35" pc="268435616" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="36" pc="268435648" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="37" pc="268435655" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="40" pc="268435676" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="43" pc="268435741" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="45" pc="268435765" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="6" lineNum="48" pc="268435779" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="7" lineNum="54" pc="268435800" symbol="onHide"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="8" lineNum="58" pc="268435805" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectView.mc" id="9" lineNum="62" pc="268435810" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectApp.mc" id="11" lineNum="6" pc="268435815" symbol="initialize"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectApp.mc" id="11" lineNum="7" pc="268435819" symbol="initialize"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectApp.mc" id="12" lineNum="11" pc="268435838" symbol="onStart"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectApp.mc" id="13" lineNum="15" pc="268435843" symbol="onStop"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectApp.mc" id="14" lineNum="19" pc="268435848" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectApp.mc" id="14" lineNum="20" pc="268435852" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectApp.mc" id="15" lineNum="24" pc="268435890" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectApp.mc" id="15" lineNum="25" pc="268435894" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectBackground.mc" id="17" lineNum="7" pc="268435911" symbol="initialize"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectBackground.mc" id="17" lineNum="8" pc="268435915" symbol="initialize"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectBackground.mc" id="17" lineNum="12" pc="268435936" symbol="initialize"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectBackground.mc" id="18" lineNum="15" pc="268435957" symbol="draw"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectBackground.mc" id="18" lineNum="17" pc="268435961" symbol="draw"/>
+        <entry filename="C:\\Users\\eliza\\eclipse-workspace\\TestProject\\source\\TestProjectBackground.mc" id="18" lineNum="18" pc="268436014" symbol="draw"/>
+        <entry filename="Rez" id="24" lineNum="16" pc="268436027" symbol="WatchFace"/>
+        <entry filename="Rez" id="24" lineNum="18" pc="268436039" symbol="WatchFace"/>
+        <entry filename="Rez" id="24" lineNum="19" pc="268436158" symbol="WatchFace"/>
+        <entry filename="Rez" id="24" lineNum="20" pc="268436210" symbol="WatchFace"/>
+        <entry filename="Rez" id="24" lineNum="22" pc="268436373" symbol="WatchFace"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="17" symbol="ColorRed"/>
+        <entry field="true" id="21" symbol="MilitaryFormatTitle"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="16" symbol="ColorBlue"/>
+        <entry field="true" id="24" symbol="AppName"/>
+        <entry id="9" object="true" symbol="TestProjectView"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry field="true" id="20" symbol="ColorDarkGray"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="10" object="true" symbol="TestProjectApp"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry field="true" id="23" symbol="ColorWhite"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="22" symbol="ColorBlack"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="14" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="19" symbol="BackgroundColorTitle"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="15" symbol="ColorLightGray"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="18" symbol="ForegroundColorTitle"/>
+        <entry field="true" id="13" symbol="Rainier"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268435799" name="view" stackId="6" startPc="268435530"/>
+        <entry endPc="268435799" name="hours" stackId="4" startPc="268435530"/>
+        <entry endPc="268435799" name="timeString" stackId="5" startPc="268435530"/>
+        <entry endPc="268435799" name="clockTime" stackId="3" startPc="268435530"/>
+        <entry endPc="268435799" name="timeFormat" stackId="2" startPc="268435530"/>
+        <entry arg="true" endPc="268435800" name="dc" stackId="1" startPc="268435526"/>
+        <entry arg="true" endPc="268435843" name="state" stackId="1" startPc="268435838"/>
+        <entry arg="true" endPc="268435848" name="state" stackId="1" startPc="268435843"/>
+        <entry endPc="268435956" name="dictionary" stackId="1" startPc="268435915"/>
+        <entry arg="true" endPc="268436027" name="dc" stackId="1" startPc="268435957"/>
+        <entry endPc="268436400" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436039"/>
+        <entry endPc="268436400" name="rez_cmp_local_bitmap_Rainier" stackId="2" startPc="268436039"/>
+        <entry arg="true" endPc="268436401" name="dc" stackId="1" startPc="268436027"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="158" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="213" parentId="globals" symbolId="TestProjectView" type="class"/>
+        <dataEntry offset="308" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="387" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="434" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="465" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="496" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="535" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="566" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="677" parentId="globals" symbolId="TestProjectApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="TestProjectView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="TestProjectView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="TestProjectView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="TestProjectView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="TestProjectView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="TestProjectView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="TestProjectView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="TestProjectApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="TestProjectApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="TestProjectApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="TestProjectApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="TestProjectApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

@@ -1,0 +1,4 @@
+<layout id="WatchFace">
+    <bitmap id="Rainier" filename="../images/image.png" x="center" y="center" />
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+</layout>
